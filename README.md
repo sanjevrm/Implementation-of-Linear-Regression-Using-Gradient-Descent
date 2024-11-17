@@ -19,8 +19,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:JAGADEESH J
-RegisterNumber:212223110015
+Developed by:SANJEV R M
+RegisterNumber:212223040186
 
 from google.colab import drive
 drive.mount('/content/gdrive')
